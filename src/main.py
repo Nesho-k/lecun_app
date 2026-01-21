@@ -8,7 +8,7 @@ import io
 
 import uvicorn
 
-from model import RN
+from src.model import RN
 
 # Chemins
 BASE_DIR = Path(__file__).resolve().parent.parent
