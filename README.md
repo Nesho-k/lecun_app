@@ -144,7 +144,7 @@ Prédiction
 ### Backend
 
 ```bash
-git clone <repo>
+git clone https://github.com/Nesho-k/lecun_app.git
 cd project
 pip install -r requirements.txt
 uvicorn api.main:app --reload
