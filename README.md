@@ -1,4 +1,4 @@
-# Reconnaissance de chiffres manuscrits – CNN end-to-end (PyTorch, FastAPI, React)
+# Reconnaissance de chiffres manuscrits – CNN end-to-end (PyTorch, FastAPI)
 
 Projet de Deep Learning appliqué à la vision par ordinateur : développement d’un modèle de reconnaissance de chiffres manuscrits basé sur un CNN, exposé via une API et utilisable en temps réel via une interface web interactive.
 
@@ -168,8 +168,8 @@ Application complète permettant :
 - de comprendre un pipeline ML end-to-end
 
 
-
 ## Auteur
 
-Nesho Kanthakumar
-GitHub · LinkedIn
+**Nesho Kanthakumar**
+Étudiant en Data Science 
+[GitHub](https://github.com/Nesho-k) · [LinkedIn](https://www.linkedin.com/in/nesho-kanthakumar-6354512a6/)
